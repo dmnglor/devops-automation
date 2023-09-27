@@ -50,5 +50,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+				<finalName>jenkins-devops</finalName>
+
 		</build>
 </project>
